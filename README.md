@@ -6,7 +6,6 @@
 <!-- 简介 -->
 <p>
   <strong>Hi,this is Shelly</strong><br>
-  喜欢构建温暖且高效的工具，热爱开源与设计。
 </p>
 
 <!-- 社交链接 -->
@@ -19,7 +18,7 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="oc.gif" width="90%" style="max-width: 400px; height: auto;">
+      <img src="oc.gif" width="95%" style="max-width: 500px; height: auto;">
     </td>
     <td align="center" width="50%">
       <strong>📊 GitHub 数据</strong><br><br>
