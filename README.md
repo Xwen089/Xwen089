@@ -22,9 +22,10 @@
     </td>
     <td align="center" width="50%">
       <strong>📊 GitHub 数据</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Xwen089&show_icons=true&theme=vue&hide_border=true&bg_color=fffaf0&title_color=476c3a&icon_color=9bc27b&text_color=3a5a32" width="95%">
-      <br><br>
       <img src="https://streak-stats.demolab.com/?user=Xwen089&theme=vue&hide_border=true&background=fffaf0&ring=476c3a&fire=9bc27b&currStreakLabel=476c3a" width="95%">
+      <br><br>
+      <strong>💻 LeetCode 数据</strong><br><br>
+      <img src="https://leetcard.jacoblin.cool/Nicole142?site=cn&theme=light&hide_border=true&bg_color=fffaf0&title_color=476c3a&icon_color=9bc27b&text_color=3a5a32" width="95%">
     </td>
   </tr>
 </table>
